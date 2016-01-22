@@ -76,3 +76,18 @@ td.name, th.name {
     border: none;
   }
 }
+
+@media(max-width: 768px) {
+  td.number, th.number {
+    width: 12%;
+  }
+  td.cat, th.cat {
+    display: none;
+  }
+  table tr td, table tr th {
+    padding: 10px 4px;
+  }
+  #header h1 a {
+    font-size: 45px;
+  }
+}
