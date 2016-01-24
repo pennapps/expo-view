@@ -38,7 +38,7 @@ td.route, th.route {
 }
 
 td.name, th.name {
-  width: 20%;
+  width: 30%;
 }
 
 @media print {
@@ -79,7 +79,7 @@ td.name, th.name {
 
 @media(max-width: 768px) {
   td.number, th.number {
-    width: 12%;
+    width: 20%;
   }
   td.route, th.route {
     display: none;
