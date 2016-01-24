@@ -47,7 +47,7 @@ pennapps.add_expo(expo_1)
 pennapps.add_expo(expo_2)
 
 # Set judge codes
-pennapps.judge_codes = ['Will', 'Jake', 'Shaanan', 'Sri', 'Thomas', 'Brian', 'Simran', 'Wissman' ]
+pennapps.set_judge_codes(['Will', 'Jake', 'Shaanan', 'Sri', 'Thomas', 'Brian', 'Simran', 'Wissman' ])
 
 # Parse and create results
 for csv_file in csv_file_list:
@@ -68,12 +68,7 @@ for csv_file in csv_file_list:
 
         # Split by route
         for route in pennapps.routes.keys():
-            # print route
-            # print len(pennapps.routes[route])
-            # print '---'
             A, B = split_list(list(pennapps.routes[route]))
-            print len(A)
-            print len(B)    
             expo_1.add_hacks_by_list(A)
             expo_2.add_hacks_by_list(B)
 

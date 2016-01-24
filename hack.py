@@ -10,6 +10,13 @@ class Hackathon(object):
         self.routes = dict()
         # Judge codes for expo judges
         self.judge_codes = []
+        self.judge_map = dict()
+
+    def set_judge_codes(self, codes):
+        self.judge_codes = codes
+        for person in codes:
+            judge_map[person] = 0
+        return True
 
     def add_expo(self, expo):
         if not isinstance(expo, Expo):
