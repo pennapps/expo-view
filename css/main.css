@@ -33,7 +33,7 @@ td.number, th.number {
   width: 120px;
 }
 
-td.cat, th.cat {
+td.route, th.route {
   width: 20%;
 }
 
@@ -81,7 +81,7 @@ td.name, th.name {
   td.number, th.number {
     width: 12%;
   }
-  td.cat, th.cat {
+  td.route, th.route {
     display: none;
   }
   table tr td, table tr th {
