@@ -12,12 +12,12 @@ csv_file_list = []
 COL_NUM_OF = COLUMN_NUMBERS = {
     'SUBMISSION_TITLE': 0,
     'SUBMISSION_URL': 1,
-    'SPONSOR_LIST': 8,
+    'SPONSOR_LIST': 6,
     'ROUTE': 7
 }
 # Number of table spots
-HACKS_PER_EXPO_MAX = 200
-HACKS_PER_JUDGE = 17
+HACKS_PER_EXPO_MAX = 100
+HACKS_PER_JUDGE = 30
 # [Assumes two expos]
 
 OUTPUT_FILE_NAME = 'output.csv'
@@ -47,7 +47,7 @@ pennapps.add_expo(expo_1)
 pennapps.add_expo(expo_2)
 
 # Set judge codes
-pennapps.judge_codes = ['judge_code']
+pennapps.judge_codes = ['Will', 'Jake', 'Shaanan', 'Sri', 'Thomas', 'Brian', 'Simran', 'Wissman' ]
 
 # Parse and create results
 for csv_file in csv_file_list:
@@ -68,7 +68,12 @@ for csv_file in csv_file_list:
 
         # Split by route
         for route in pennapps.routes.keys():
+            # print route
+            # print len(pennapps.routes[route])
+            # print '---'
             A, B = split_list(list(pennapps.routes[route]))
+            print len(A)
+            print len(B)    
             expo_1.add_hacks_by_list(A)
             expo_2.add_hacks_by_list(B)
 
