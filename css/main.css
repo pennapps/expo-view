@@ -29,6 +29,16 @@
   text-align: left;
 }
 
+#top-logo {
+  width: 500px;
+  height: auto;
+}
+
+#logo-container {
+  text-align: center;
+  padding-top: 24px;
+}
+
 td.number, th.number {
   width: 120px;
 }
