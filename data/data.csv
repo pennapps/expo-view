@@ -1,10 +1,168 @@
-expo,table,project,sponsors,link,route,
-1,1,An Arduino Point Counter for Pitch Penny,,http://pennapps-xiii.devpost.com/submissions/46834-an-arduino-point-counter-for-pitch-penny,,Jake
-1,2,IRIS,"Best Houndify API Hack - 1st Place, sponsored by SoundHound, Best Houndify API Hack - 2nd Place, sponsored by SoundHound, Best Houndify API Hack - 3rd Place [5 teams will win], sponsored by SoundHound",http://pennapps-xiii.devpost.com/submissions/46774-iris,,Jake
-1,3,Duelr,"""We Know Where You Were Going With This One"" Prize, sponsored by Plaid",http://pennapps-xiii.devpost.com/submissions/46751-duelr,,Jake
-1,4,DeliverGood,"Best On-Demand Hack, sponsored by Postmates",http://pennapps-xiii.devpost.com/submissions/46618-delivergood,,Jake
-1,5,Graphicle,"""We Know Where You Were Going With This One"" Prize, sponsored by Plaid",http://pennapps-xiii.devpost.com/submissions/46818-graphicle,,Jake
-1,6,HighLites,"Blackstone Choice Prize, ""We Know Where You Were Going With This One"" Prize, sponsored by Plaid",http://pennapps-xiii.devpost.com/submissions/46767-highlites,,Jake
-1,7,Reflectrum,"Best Use of Rapid Prototyping, sposnored by AddLab",http://pennapps-xiii.devpost.com/submissions/46646-reflectrum,,Jake
-1,8,smellsGud,,http://pennapps-xiii.devpost.com/submissions/46689-smellsgud,,Jake
-1,9,OmniTestr,Best Use of Linode Services,http://pennapps-xiii.devpost.com/submissions/46813-omnitestr,,Jake
+expo,table,project,sponsors,link,route
+1,1,Food For Though,"Best Use of Data Visualization, Most Entrepreneurial Hack, Best User Experience, Best Progressive Web App, Best Use of Lyft API",http://pennapps-xiv.devpost.com/submissions/56529-food-for-though,
+1,2,Politiview,"Most Entrepreneurial Hack, Best Use of Linode Services, Best Use of MongoDB",http://pennapps-xiv.devpost.com/submissions/56530-politiview,social + civic hacking
+1,3,LiveKan,"Best Use of Data Visualization, Best Use of VR/AR for Content Discovery, Most Entrepreneurial Hack, Best Use of Linode Services",http://pennapps-xiv.devpost.com/submissions/56532-livekan,
+1,4,The Quiet Game,Best User Experience,http://pennapps-xiv.devpost.com/submissions/56534-the-quiet-game,
+1,5,FaceTheMusic,"Best Design Using PYNQ-Z1 Boards, Peripherals, and Tools (3)",http://pennapps-xiv.devpost.com/submissions/56539-facethemusic,
+1,6,trade-O-bundle,"Best Use of Data Visualization, Most Entrepreneurial Hack, Best Domain Name Registered in PennApps XIV, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56546-trade-o-bundle,
+1,7,vox,,http://pennapps-xiv.devpost.com/submissions/56563-vox,
+1,8,Medical.me,"Most Entrepreneurial Hack, Best Domain Name Registered in PennApps XIV, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56568-medical-me,health
+1,9,Batman Scan,"Most Entrepreneurial Hack, Best Use of Nexmo API",http://pennapps-xiv.devpost.com/submissions/56572-batman-scan,social + civic hacking
+1,10,SAFEphilLY,"Best Use of Data Visualization, Best Public Safety or Video Processing App, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56581-safephilly,social + civic hacking
+1,11,HearTempo,,http://pennapps-xiv.devpost.com/submissions/56582-heartempo,health
+1,12,WristPass,"Best Use of Rapid Prototyping, sposnored by AddLab, Most Entrepreneurial Hack, Lutron IoT Prize, Best Use of the Capital One API - Nessie, Best Use of Nexmo API, Best Use of Linode Services, Best Use of MongoDB, Best User Experience, Best Use of Lyft API",http://pennapps-xiv.devpost.com/submissions/56584-wristpass,hardware
+1,13,Newstock,"Best Use of Data Visualization, Most Entrepreneurial Hack, Best Use of Linode Services, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56595-newstock,
+1,14,whoot,,http://pennapps-xiv.devpost.com/submissions/56600-whoot,social + civic hacking
+1,15,MOM: Mind Over Matter,"Best Use of Data Visualization, Most Entrepreneurial Hack, Lutron IoT Prize, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56601-mom-mind-over-matter,education
+1,16,Sophia,"Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56602-sophia,social + civic hacking
+1,17,Buskr,"Best Use of Data Visualization, Best Use of the Capital One API - Nessie, Best Domain Name Registered in PennApps XIV, Best Use of MongoDB, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56603-buskr,social + civic hacking
+1,18,IMpulse,"Best Public Safety or Video Processing App, Most Entrepreneurial Hack, Lutron IoT Prize, Best Use of Nexmo API, Best Use of MongoDB",http://pennapps-xiv.devpost.com/submissions/56605-impulse,health
+1,19,heur.io,"Best Use of Elsevier API, Best Design Using PYNQ-Z1 Boards, Peripherals, and Tools (3), Best Financial Hack Using the Aladdin API, Best Use of Data Visualization, Best Public Safety or Video Processing App, Best Use of VR/AR for Content Discovery, Best Use of Rapid Prototyping, sposnored by AddLab, Most Entrepreneurial Hack, Lutron IoT Prize, Best Use of the Capital One API - Nessie, Best Domain Name Registered in PennApps XIV, Best Use of Nexmo API, Best Use of Linode Services, Best Use of MongoDB, Best User Experience, Best Progressive Web App, Best Use of Lyft API",http://pennapps-xiv.devpost.com/submissions/56606-heur-io,health
+1,20,Muffins,"Best Use of Rapid Prototyping, sposnored by AddLab, Lutron IoT Prize, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56607-muffins,hardware
+1,21,super powerful search,Best Use of Elsevier API,http://pennapps-xiv.devpost.com/submissions/56608-super-powerful-search,health
+1,22,GotGas,"Best Use of Data Visualization, Best Domain Name Registered in PennApps XIV, Best Use of Linode Services, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56611-gotgas,social + civic hacking
+1,23,The Sticker Exchange,"Best Use of the Capital One API - Nessie, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56614-the-sticker-exchange,
+1,24,Beacons,"Most Entrepreneurial Hack, Best Domain Name Registered in PennApps XIV, Best User Experience, Best Use of Lyft API",http://pennapps-xiv.devpost.com/submissions/56616-beacons,social + civic hacking
+1,25,Piazza Plz Help Me,"Best Use of Data Visualization, Best Domain Name Registered in PennApps XIV, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56617-piazza-plz-help-me,education
+1,26,CalPal,Best User Experience,http://pennapps-xiv.devpost.com/submissions/56618-calpal,
+1,27,Keep Talking Arduino,,http://pennapps-xiv.devpost.com/submissions/56619-keep-talking-arduino,hardware
+1,28,Blyndfold,"Best Domain Name Registered in PennApps XIV, Best User Experience, Best Use of Lyft API",http://pennapps-xiv.devpost.com/submissions/56620-blyndfold,
+1,29,DJ Rainbow Pi,"Best Use of Data Visualization, Best Use of Rapid Prototyping, sposnored by AddLab",http://pennapps-xiv.devpost.com/submissions/56621-dj-rainbow-pi,hardware
+1,30,SMS Doc,"Best Use of Data Visualization, Best Use of Nexmo API, Best Use of MongoDB, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56623-sms-doc,social + civic hacking
+1,31,ILOY: In Lieu of You,Best Use of Linode Services,http://pennapps-xiv.devpost.com/submissions/56624-iloy-in-lieu-of-you,social + civic hacking
+1,32,Aladdin,"Best Financial Hack Using the Aladdin API, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56625-aladdin,
+1,33,PolitiCall,"Best Use of Data Visualization, Most Entrepreneurial Hack, Best Domain Name Registered in PennApps XIV, Best Use of Linode Services, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56627-politicall,social + civic hacking
+1,34,SpyFi,"Best Use of Data Visualization, Most Entrepreneurial Hack, Lutron IoT Prize, Best Domain Name Registered in PennApps XIV, Best Use of Linode Services, Best Use of MongoDB, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56630-spyfi,cybersecurity
+1,35,Front Desk,"Most Entrepreneurial Hack, Best Use of Nexmo API",http://pennapps-xiv.devpost.com/submissions/56631-front-desk,
+1,36,OHQ: office hours made better,"Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56632-ohq-office-hours-made-better,education
+1,37,SmartNotes,"Best Use of Data Visualization, Best Use of Linode Services, Best Use of MongoDB, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56635-smartnotes,education
+1,38,glTF Emoji Render Plugin,"Best Use of Data Visualization, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56636-gltf-emoji-render-plugin,social + civic hacking
+1,39,PiThon,,http://pennapps-xiv.devpost.com/submissions/56637-pithon,cybersecurity
+1,40,PHELLS,"Best Use of MongoDB, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56638-phells,social + civic hacking
+1,41,PYNQ Jam,"Best Design Using PYNQ-Z1 Boards, Peripherals, and Tools (3)",http://pennapps-xiv.devpost.com/submissions/56639-pynq-jam,hardware
+1,42,hospital.ity,"Most Entrepreneurial Hack, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56641-hospital-ity,health
+1,43,eyeHUD,"Best Public Safety or Video Processing App, Most Entrepreneurial Hack",http://pennapps-xiv.devpost.com/submissions/56642-eyehud,vr/ar
+1,44,Ventus,,http://pennapps-xiv.devpost.com/submissions/56643-ventus,social + civic hacking
+1,45,eagleEye,"Best Use of Data Visualization, Most Entrepreneurial Hack, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56644-eagleeye,social + civic hacking
+1,46,EngineeringKit,Best User Experience,http://pennapps-xiv.devpost.com/submissions/56645-engineeringkit,education
+1,47,HLSettingsView,,http://pennapps-xiv.devpost.com/submissions/56646-hlsettingsview,
+1,48,HACK 2G3TH3R (Hack Together),"Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56647-hack-2g3th3r-hack-together,social + civic hacking
+1,49,Crowd Compute,"Best Use of Data Visualization, Most Entrepreneurial Hack, Best Use of the Capital One API - Nessie, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56649-crowd-compute,social + civic hacking
+1,50,Dr. Jarvis,"Best Use of Data Visualization, Best Public Safety or Video Processing App, Lutron IoT Prize, Best Use of MongoDB, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56651-dr-jarvis,health
+1,51,Lantern,"Best Public Safety or Video Processing App, Most Entrepreneurial Hack, Best Domain Name Registered in PennApps XIV, Best User Experience, Best Use of Lyft API",http://pennapps-xiv.devpost.com/submissions/56654-lantern,social + civic hacking
+1,52,Encrypted Messenger,,http://pennapps-xiv.devpost.com/submissions/56655-encrypted-messenger,
+1,53,Emogram,"Best Use of Data Visualization, Most Entrepreneurial Hack, Best Domain Name Registered in PennApps XIV, Best Use of Linode Services, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56656-emogram,social + civic hacking
+1,54,Elsa Smart Insulin Pen,Most Entrepreneurial Hack,http://pennapps-xiv.devpost.com/submissions/56657-elsa-smart-insulin-pen,health
+1,55,tEXt (working title),"Most Entrepreneurial Hack, Best Use of Nexmo API",http://pennapps-xiv.devpost.com/submissions/56658-text-working-title,social + civic hacking
+1,56,N2Patent,"Best Use of Data Visualization, Most Entrepreneurial Hack",http://pennapps-xiv.devpost.com/submissions/56659-n2patent,social + civic hacking
+1,57,Odin,"Most Entrepreneurial Hack, Best Use of Linode Services, Best Use of MongoDB",http://pennapps-xiv.devpost.com/submissions/56660-odin,education
+1,58,Newstock,"Best Use of Data Visualization, Most Entrepreneurial Hack, Best Use of Linode Services",http://pennapps-xiv.devpost.com/submissions/56661-newstock,social + civic hacking
+1,59,go to rite aid for like an hour or more like 2 and 1/3,,http://pennapps-xiv.devpost.com/submissions/56663-go-to-rite-aid-for-like-an-hour-or-more-like-2-and-1-3,
+1,60,RedSi,"Most Entrepreneurial Hack, Lutron IoT Prize, Best Domain Name Registered in PennApps XIV, Best Use of Linode Services, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56664-redsi,education
+1,61,MusicShift,"Most Entrepreneurial Hack, Lutron IoT Prize, Best Use of MongoDB, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56665-musicshift,hardware
+1,62,Matr,Best User Experience,http://pennapps-xiv.devpost.com/submissions/56666-matr,social + civic hacking
+1,63,PicSpeak,Best Use of Linode Services,http://pennapps-xiv.devpost.com/submissions/56667-picspeak,education
+1,64,Yapper,"Best Use of Data Visualization, Most Entrepreneurial Hack, Best User Experience, Best Use of Lyft API",http://pennapps-xiv.devpost.com/submissions/56668-yapper,
+1,65,Showcase,"Best Public Safety or Video Processing App, Most Entrepreneurial Hack, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56669-showcase,social + civic hacking
+1,66,Klack,Best Use of Data Visualization,http://pennapps-xiv.devpost.com/submissions/56670-klack,
+1,67,tongueSpeak,Best Public Safety or Video Processing App,http://pennapps-xiv.devpost.com/submissions/56671-tonguespeak,education
+1,68,Parking Pal,"Best Use of Data Visualization, Best Public Safety or Video Processing App, Best Use of MongoDB",http://pennapps-xiv.devpost.com/submissions/56672-parking-pal,social + civic hacking
+1,69,BeThere,"Most Entrepreneurial Hack, Best Use of the Capital One API - Nessie, Best Use of MongoDB, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56673-bethere,social + civic hacking
+1,70,Mongo Bongo,"Best Use of Data Visualization, Most Entrepreneurial Hack, Lutron IoT Prize, Best Domain Name Registered in PennApps XIV, Best Use of MongoDB",http://pennapps-xiv.devpost.com/submissions/56675-mongo-bongo,hardware
+1,71,Encrypted Messenger,"Best Domain Name Registered in PennApps XIV, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56677-encrypted-messenger,cybersecurity
+1,72,Lyft$aver,"Most Entrepreneurial Hack, Best User Experience, Best Progressive Web App, Best Use of Lyft API",http://pennapps-xiv.devpost.com/submissions/56678-lyft-aver,social + civic hacking
+1,73,Black Crystal,"Best Financial Hack Using the Aladdin API, Best Use of Data Visualization, Best Use of Rapid Prototyping, sposnored by AddLab, Lutron IoT Prize, Best Use of Linode Services",http://pennapps-xiv.devpost.com/submissions/56679-black-crystal,hardware
+1,74,PiBench,Lutron IoT Prize,http://pennapps-xiv.devpost.com/submissions/56681-pibench,hardware
+1,75,Park and Share,Most Entrepreneurial Hack,http://pennapps-xiv.devpost.com/submissions/56684-park-and-share,social + civic hacking
+1,76,recon_rocks,Best Domain Name Registered in PennApps XIV,http://pennapps-xiv.devpost.com/submissions/56685-recon_rocks,cybersecurity
+1,77,Take Me Out,"Best User Experience, Best Use of Lyft API",http://pennapps-xiv.devpost.com/submissions/56686-take-me-out,social + civic hacking
+1,78,Immersive Music Experience,Best Use of VR/AR for Content Discovery,http://pennapps-xiv.devpost.com/submissions/56689-immersive-music-experience,vr/ar
+1,79,Barrage Game for Live Streaming Video Platform,Most Entrepreneurial Hack,http://pennapps-xiv.devpost.com/submissions/56690-barrage-game-for-live-streaming-video-platform,social + civic hacking
+1,80,BrunchOut,Best Use of MongoDB,http://pennapps-xiv.devpost.com/submissions/56691-brunchout,
+1,81,TweetVoteML,"Best Use of Data Visualization, Most Entrepreneurial Hack, Best Domain Name Registered in PennApps XIV, Best Use of MongoDB, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56694-tweetvoteml,social + civic hacking
+1,82,Dear Me - your first text message based diary.,"Best Use of Data Visualization, Best Use of Nexmo API, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56695-dear-me-your-first-text-message-based-diary,health
+2,1,Today In History,"Best Amazon Alexa Hack, Best Use of Data Visualization, Best Domain Name Registered in PennApps XIV, Best User Experience, Best Progressive Web App, Best Use of Lyft API",http://pennapps-xiv.devpost.com/submissions/56696-today-in-history,education
+2,2,SmartBiddr,Best Use of MongoDB,http://pennapps-xiv.devpost.com/submissions/56697-smartbiddr,social + civic hacking
+2,3,Runway,"Lutron IoT Prize, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56701-runway,hardware
+2,4,Theia,"Best Use of Rapid Prototyping, sposnored by AddLab, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56703-theia,health
+2,5,Tempus,"Best Use of Data Visualization, Most Entrepreneurial Hack, Best Use of Nexmo API, Best Use of MongoDB, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56704-tempus,education
+1,83,SCOPE Camera,"Best Use of Rapid Prototyping, sposnored by AddLab, Most Entrepreneurial Hack",http://pennapps-xiv.devpost.com/submissions/56705-scope-camera,hardware
+2,7,Sine - Sunglasses that play audio only you can hear.,"Most Entrepreneurial Hack, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56706-sine-sunglasses-that-play-audio-only-you-can-hear,hardware
+2,8,Lyft Offline,"Best Use of Nexmo API, Best Use of Linode Services, Best Use of MongoDB, Best User Experience, Best Progressive Web App, Best Use of Lyft API",http://pennapps-xiv.devpost.com/submissions/56707-lyft-offline,social + civic hacking
+2,9,r-esc,,http://pennapps-xiv.devpost.com/submissions/56708-r-esc,
+2,10,AdmitMe,"Best Use of Data Visualization, Most Entrepreneurial Hack, Best Domain Name Registered in PennApps XIV, Best Use of MongoDB",http://pennapps-xiv.devpost.com/submissions/56709-admitme,education
+2,11,Oyster ,"Most Entrepreneurial Hack, Best User Experience, Best Use of Lyft API",http://pennapps-xiv.devpost.com/submissions/56710-oyster,social + civic hacking
+2,12,iPonzi,"Most Entrepreneurial Hack, Best Use of the Capital One API - Nessie, Best Domain Name Registered in PennApps XIV, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56711-iponzi,social + civic hacking
+2,13,Life,"Best Public Safety or Video Processing App, Most Entrepreneurial Hack, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56714-life,social + civic hacking
+2,14,Person of Interest,,http://pennapps-xiv.devpost.com/submissions/56715-person-of-interest,social + civic hacking
+2,15,OpenCFood,"Most Entrepreneurial Hack, Best Use of MongoDB, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56717-opencfood,health
+2,16,Virtual-Augmented Reality,"Best Use of VR/AR for Content Discovery, Best Use of Rapid Prototyping, sposnored by AddLab, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56718-virtual-augmented-reality,vr/ar
+2,17,ScoreBored,"Most Entrepreneurial Hack, Lutron IoT Prize, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56730-scorebored,vr/ar
+2,18,Lyft4Humanity,"Best Use of the Capital One API - Nessie, Best Domain Name Registered in PennApps XIV, Best Use of Nexmo API, Best Use of Linode Services, Best Use of MongoDB, Best User Experience, Best Progressive Web App, Best Use of Lyft API",http://pennapps-xiv.devpost.com/submissions/56731-lyft4humanity,social + civic hacking
+2,19,StockTunes,Most Entrepreneurial Hack,http://pennapps-xiv.devpost.com/submissions/56733-stocktunes,social + civic hacking
+2,20,nullHands,"Best Public Safety or Video Processing App, Best Domain Name Registered in PennApps XIV, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56735-nullhands,hardware
+2,21,Internet of Trees,"Best Use of MongoDB, Best Use of Data Visualization",http://pennapps-xiv.devpost.com/submissions/56736-internet-of-trees,social + civic hacking
+2,22,graffiti,"Best Domain Name Registered in PennApps XIV, Best Use of VR/AR for Content Discovery, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56737-graffiti,vr/ar
+2,23,Secure Galaxy,Best Use of MongoDB,http://pennapps-xiv.devpost.com/submissions/56738-secure-galaxy,cybersecurity
+2,24,InTrack,"Best Public Safety or Video Processing App, Lutron IoT Prize, Most Entrepreneurial Hack",http://pennapps-xiv.devpost.com/submissions/56741-intrack,hardware
+2,25,cityscapes,"Best Use of VR/AR for Content Discovery, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56742-cityscapes,vr/ar
+2,26,TrolleyStory,"Best Use of MongoDB, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56744-trolleystory,social + civic hacking
+2,27,Financial Kideracy,"Best Financial Hack Using the Aladdin API, Best Use of the Capital One API - Nessie, Best Use of Data Visualization, Most Entrepreneurial Hack, Best User Experience, Best Domain Name Registered in PennApps XIV",http://pennapps-xiv.devpost.com/submissions/56745-financial-kideracy,education
+2,28,TWOFOLD,Best Use of Data Visualization,http://pennapps-xiv.devpost.com/submissions/56748-twofold,social + civic hacking
+2,29,Finalytics,"Best Financial Hack Using the Aladdin API, Best Domain Name Registered in PennApps XIV, Best Use of Linode Services, Best Use of Data Visualization, Most Entrepreneurial Hack, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56749-finalytics,education
+2,30,FitMe,"Most Entrepreneurial Hack, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56751-fitme,social + civic hacking
+2,31,Eggsy,"Lutron IoT Prize, Best Use of Rapid Prototyping, sposnored by AddLab, Most Entrepreneurial Hack, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56753-eggsy,hardware
+2,32,InteGreat!,Best Progressive Web App,http://pennapps-xiv.devpost.com/submissions/56754-integreat,education
+2,33,TravelAR,"Best Use of VR/AR for Content Discovery, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56755-travelar,vr/ar
+2,34,Fulfill,"Best Use of VR/AR for Content Discovery, Best Use of the Capital One API - Nessie, Best Use of Nexmo API, Lutron IoT Prize, Best Use of Linode Services, Most Entrepreneurial Hack",http://pennapps-xiv.devpost.com/submissions/56756-fulfill,vr/ar
+2,35,Voice Controlled Vehicle,"Lutron IoT Prize, Best Use of Rapid Prototyping, sposnored by AddLab",http://pennapps-xiv.devpost.com/submissions/56757-voice-controlled-vehicle,hardware
+2,36,Remote Gesture Control,Lutron IoT Prize,http://pennapps-xiv.devpost.com/submissions/56758-remote-gesture-control,hardware
+2,37,Trimaran (because 3 things on waves),"Best Use of VR/AR for Content Discovery, Best Use of Data Visualization",http://pennapps-xiv.devpost.com/submissions/56761-trimaran-because-3-things-on-waves,hardware
+2,38,SafePath,"Best Public Safety or Video Processing App, Best Use of Linode Services, Best Use of Data Visualization, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56762-safepath,social + civic hacking
+2,39,RotMeNot,Most Entrepreneurial Hack,http://pennapps-xiv.devpost.com/submissions/56763-rotmenot,social + civic hacking
+2,40,ShadowPost,"Best Use of MongoDB, Most Entrepreneurial Hack, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56764-shadowpost,social + civic hacking
+2,41,Conservar,"Best Use of the Capital One API - Nessie, Best Use of Linode Services, Best Use of MongoDB, Best Use of Data Visualization, Most Entrepreneurial Hack, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56765-conservar,social + civic hacking
+2,42,Space InVRders,"Best Use of VR/AR for Content Discovery, Best Use of Linode Services",http://pennapps-xiv.devpost.com/submissions/56766-space-invrders,vr/ar
+2,43,Hobo Hockey,Best Use of VR/AR for Content Discovery,http://pennapps-xiv.devpost.com/submissions/56767-hobo-hockey,vr/ar
+2,44,Ringman,"Best Domain Name Registered in PennApps XIV, Best Use of Nexmo API, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56768-ringman,
+2,45,Sigma,"Best Domain Name Registered in PennApps XIV, Best Use of Linode Services, Best Use of MongoDB, Most Entrepreneurial Hack, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56770-sigma,education
+2,46,TA Timer,"Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56771-ta-timer,education
+2,47,Notebook,,http://pennapps-xiv.devpost.com/submissions/56772-notebook,education
+2,48,Autonomous Suitcase,"Best Use of Rapid Prototyping, sposnored by AddLab",http://pennapps-xiv.devpost.com/submissions/56773-autonomous-suitcase,hardware
+2,49,Multi Players in Kinect World,,http://pennapps-xiv.devpost.com/submissions/56774-multi-players-in-kinect-world,vr/ar
+2,50,Squirrel,,http://pennapps-xiv.devpost.com/submissions/56775-squirrel,hardware
+2,51,Neighbors,Best Use of Nexmo API,http://pennapps-xiv.devpost.com/submissions/56776-neighbors,
+2,52,Dojo,"Best Use of VR/AR for Content Discovery, Best Use of MongoDB, Most Entrepreneurial Hack, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56777-dojo,education
+2,53,EduSmart,"Most Entrepreneurial Hack, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56778-edusmart,education
+2,54,ROSDev,,http://pennapps-xiv.devpost.com/submissions/56779-rosdev,hardware
+2,55,Project Em,"Best Amazon Alexa Hack, Best Use of VR/AR for Content Discovery, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56780-project-em,vr/ar
+2,56,CSShool,"Best Domain Name Registered in PennApps XIV, Most Entrepreneurial Hack, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56781-csshool,education
+2,57,Homie,"Best Domain Name Registered in PennApps XIV, Best Use of MongoDB, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56782-homie,social + civic hacking
+2,58,At Helse,"Best Use of Linode Services, Best Use of MongoDB, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56783-at-helse,health
+2,59,Voir,"Lutron IoT Prize, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56784-voir,hardware
+2,60,WarrantyTracker,Most Entrepreneurial Hack,http://pennapps-xiv.devpost.com/submissions/56785-warrantytracker,education
+2,61,Laser Tag,Most Entrepreneurial Hack,http://pennapps-xiv.devpost.com/submissions/56786-laser-tag,vr/ar
+2,62,MediBot,Best Amazon Alexa Hack,http://pennapps-xiv.devpost.com/submissions/56787-medibot,health
+2,63,Who'sThere,,http://pennapps-xiv.devpost.com/submissions/56788-who-sthere,hardware
+2,64,iDropbox,"Best Domain Name Registered in PennApps XIV, Lutron IoT Prize, Best Use of MongoDB, Best Use of Data Visualization, Most Entrepreneurial Hack, Best User Experience, Best Progressive Web App, Best Use of Lyft API",http://pennapps-xiv.devpost.com/submissions/56789-idropbox,social + civic hacking
+2,65,LLVZen,"Most Entrepreneurial Hack, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56790-llvzen,
+2,66,UrbanHelpProject,"Best Use of MongoDB, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56791-urbanhelpproject,social + civic hacking
+2,67,Make Slack Great Again,"Best Amazon Alexa Hack, Best Use of Data Visualization",http://pennapps-xiv.devpost.com/submissions/56792-make-slack-great-again,education
+2,68,LIT,"Best Use of VR/AR for Content Discovery, Best Use of Data Visualization, Most Entrepreneurial Hack, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56793-lit,vr/ar
+2,69,Soundscape,"Best Use of VR/AR for Content Discovery, Best Use of Linode Services, Best Use of MongoDB, Best Use of Data Visualization, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56794-soundscape,vr/ar
+2,70,MeChrome,Best Progressive Web App,http://pennapps-xiv.devpost.com/submissions/56795-mechrome,
+2,71,Rouse,,http://pennapps-xiv.devpost.com/submissions/56796-rouse,social + civic hacking
+2,72,AirPnP,"Best Use of the Capital One API - Nessie, Best Use of Nexmo API, Best Use of Linode Services, Best Use of MongoDB, Most Entrepreneurial Hack, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56797-airpnp,social + civic hacking
+2,73,Experia,Lutron IoT Prize,http://pennapps-xiv.devpost.com/submissions/56798-experia,vr/ar
+2,74,Fire at Will,"Best Use of Linode Services, Best Use of MongoDB, Best Use of Data Visualization, Most Entrepreneurial Hack",http://pennapps-xiv.devpost.com/submissions/56800-fire-at-will,cybersecurity
+2,75,Find Missing People,,http://pennapps-xiv.devpost.com/submissions/56801-find-missing-people,social + civic hacking
+2,76,AllCommunication,"Best Use of MongoDB, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56802-allcommunication,social + civic hacking
+2,77,RecoGrader,,http://pennapps-xiv.devpost.com/submissions/56803-recograder,
+2,78,Sign Speak,"Best Use of Rapid Prototyping, sposnored by AddLab",http://pennapps-xiv.devpost.com/submissions/56804-sign-speak,social + civic hacking
+2,79,Learn My Sites,"Best Use of Data Visualization, Most Entrepreneurial Hack, Best User Experience, Best Progressive Web App",http://pennapps-xiv.devpost.com/submissions/56805-learn-my-sites,education
+2,80,Bus Notify,,http://pennapps-xiv.devpost.com/submissions/56806-bus-notify,social + civic hacking
+2,81,Thryft,Best Use of Lyft API,http://pennapps-xiv.devpost.com/submissions/56807-thryft,social + civic hacking
+2,82,HackerTracker,,http://pennapps-xiv.devpost.com/submissions/56808-hackertracker,
+1,84,Virtual biomedical computing system,"Best Design Using PYNQ-Z1 Boards, Peripherals, and Tools (3)",http://pennapps-xiv.devpost.com/submissions/56809-virtual-biomedical-computing-system,health
+2,83,SpeakAR,"Best Use of VR/AR for Content Discovery, Best User Experience",http://pennapps-xiv.devpost.com/submissions/56811-speakar,vr/ar
+2,84,Brognosis,"Best Domain Name Registered in PennApps XIV, Best Use of Data Visualization, Most Entrepreneurial Hack, Lutron IoT Prize, Best Use of MongoDB, Best User Experience, Best Progressive Web App, Best Use of Rapid Prototyping, sposnored by AddLab",http://pennapps-xiv.devpost.com/submissions/56812-brognosis,health
